@@ -1,0 +1,88 @@
+body{
+    background-color: #162831;
+    color: white;
+}
+
+.osnov{
+    margin: 0 auto;
+    max-width: 1300px;
+}
+
+.header{
+
+}
+.main_header{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    align-items: center;
+}
+.botons{
+    font-family: 'Proxima Nova';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 135%;
+    text-align: center;
+    padding-top: 17px;
+    font-size: 14px; 
+}
+
+.botons_a{
+    padding-left: 25px;
+    text-decoration: none;
+    color:#fff;
+}
+
+.logo{
+    display: inline-block;
+    width: 60px;
+}
+
+.logo_img{
+    width: 100%;
+}
+
+.zapis_a{
+    padding: 9px 15px;
+    text-decoration: none;
+    color:#fff;
+    background: #018ABE;
+    border-radius: 3px;
+}
+
+.first_screen{
+    background: linear-gradient(0deg, rgba(152, 201, 220, 0.5), rgba(152, 201, 220, 0.5)),url(../img/backgraund_girl.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+    width: 1300px;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.akva_ter{
+    font-family: 'El Messiri';
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 140%;
+    text-align: center;
+}
+
+.ykrep{
+    font-family: 'El Messiri';
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 140%;
+    text-align: center;
+
+}
+
+.left{
+}
+
+.right{
+}
