@@ -1,11 +1,12 @@
 body{
     background-color: #162831;
     color: white;
+    margin: 0 auto;
+    max-width: 1300px;
 }
 
 .osnov{
-    margin: 0 auto;
-    max-width: 1300px;
+
 }
 
 .header{
@@ -95,7 +96,7 @@ body{
 }
 
 .footer{
-    display: flex;
+display: flex;
 }
 
 .footer_1{
@@ -104,6 +105,7 @@ body{
     font-weight: 700;
     font-size: 14px;
     line-height: 135%;
+    margin-left: 1050px;
 }
 
 .footer_2{
